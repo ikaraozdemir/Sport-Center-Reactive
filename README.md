@@ -1,8 +1,8 @@
-# React + Vite
+# Sport Center
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sport Center is a responsive web application for a sports center, designed to provide users with information about center classes, trainers, reviews about the center, and contact options.
 
-Currently, two official plugins are available:
+## Demo Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live demo of the Sport Center website [here](https://sport-center-reactive.vercel.app/).
+
