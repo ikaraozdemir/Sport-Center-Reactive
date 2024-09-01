@@ -1,4 +1,5 @@
 import React from 'react'
+import './Trainers.css'
 
 function Trainers() {
   return (

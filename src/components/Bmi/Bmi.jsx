@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
+import './Bmi.css'
 
 function Bmi() {
   const [height, setHeight] = useState('');

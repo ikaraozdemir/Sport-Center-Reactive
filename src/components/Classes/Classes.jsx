@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './Classes.css'
 
 function Classes() {
   const [activeTab, setActiveTab] = useState(1);
